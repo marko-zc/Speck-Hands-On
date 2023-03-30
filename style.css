@@ -201,7 +201,7 @@ a {
 
 .course__figure {
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
     border-radius: 6px;
     overflow: hidden;
     margin-bottom: 24px;
